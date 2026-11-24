@@ -1,0 +1,6 @@
+{
+  "name": "KaamConnect",
+  "description": "Local Job Discovery & Worker Management Platform for daily wage and semi-skilled workers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
